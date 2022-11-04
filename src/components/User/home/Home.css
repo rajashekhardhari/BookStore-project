@@ -1,0 +1,85 @@
+.logo-content-home {
+  border: 1px solid black;
+  background: #a03037 0% 0% no-repeat padding-box;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-content-home-links {
+  margin-right: 20px;
+
+  width: 8%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.login-link {
+  color: white;
+}
+
+.signUp-link {
+  color: white;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.book_count_sort_header {
+  display: flex;
+  align-items: center;
+  width: 80%;
+
+  margin: 0 auto;
+  margin-bottom: 30px;
+  justify-content: space-between;
+  font-style: italic;
+  font-style: bold;
+}
+
+.home__select {
+  width: 15rem;
+}
+
+.welcome_header {
+  border: 1px solid black;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  margin-bottom: 20px;
+}
+
+.search {
+  background-image: url("https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/search.png");
+  background-position: center;
+  background-size: 5%;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-color: white;
+  width: 35rem;
+  height: 2.5rem;
+  border-radius: 10px;
+  padding-left: 2rem;
+  font-size: medium;
+}
+
+.cart-image {
+  width: 25px;
+}
+
+.cart-image-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+}
+
+.cart_count_home {
+  color: white;
+ 
+}

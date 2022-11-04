@@ -1,0 +1,9 @@
+.place_order_paper {
+  width: 80%;
+  margin: 0 auto;
+  height: 55rem;
+  background-image: url("https://docs.nestorbird.com/uploads/images/gallery/2020-04/NHK-Customer-Order-Placed.png");
+  background-repeat: no-repeat;
+  background-position: center;
+ 
+}

@@ -1,0 +1,28 @@
+.cart__card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    margin-left: 30px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 10rem));
+    
+}
+.place__order{
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cart_quantity{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.quantity_text{
+    width: 20%;
+   margin-left: 10px;
+}
